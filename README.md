@@ -1,6 +1,6 @@
 # Unit Converter (C++)
 
-As a student with a Minor in Computer Science, I've built this mini-projects to sharpen my understanding of programming logic, user interaction, and real-world problem solving. This project helps me improve in writing clean, C++ code using functions, loops, conditionals, and menus.
+To help me with improving my code skills while I'm minoring in Computer Science, I've built this mini-project to sharpen my understanding of programming logic, user interaction, and real-world problem solving. This project helps me improve in writing clean C++ codes using functions, loops, conditionals, and menus.
 
 This Unit Converter is a simple command-line application written in C++. It allows users to convert between different units such as:
 - Meters ↔ Feet
